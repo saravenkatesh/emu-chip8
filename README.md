@@ -1,5 +1,10 @@
+Cpp Chip8 emulator
 
-#Chip8 emulator
+TO-DO:
+1. Test opcodes
+2. Implement key handling
+3. Install graphics (and sound?)
+4. Enforce cycle speed
 
 **Resources**
 
