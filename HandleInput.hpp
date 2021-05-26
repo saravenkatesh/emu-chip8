@@ -1,10 +1,3 @@
-//
-//  HandleInput.hpp
-//  myChipBad
-//
-//  Created by Sara Venkatesh on 4/27/21.
-//
-
 #pragma once
 
 #include "chip8.hpp"
