@@ -1,11 +1,17 @@
-# Chip 8 Emulator
+# CHIP-8 Emulator
 
-A chip-8 emulator.  ![Specs](specs.png)
+A CHIP-8 is a virtual machine from the '70s, primarily developed for game developing.  Its
+architecture is the following (notes from a talk):
+
+![](specs-1.tiff)
+![](specs-2.tiff)
+![](specs-3.tiff)
 
 ## Setup and play
 
-Run `make` from the `src` directory to build the executable `emu`.  To load a chip-8 file, run
-    `./emu [path/to/file]`
+Run `make` from the `src` directory to build the executable `emu`.  To load a chip-8 file, run `./emu [path/to/file]`.  For example, to play pong,
+
+    ./emu games/pong.ch8
 
 **Resources**
 
