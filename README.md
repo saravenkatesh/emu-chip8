@@ -1,10 +1,11 @@
-Cpp Chip8 emulator
+# Chip 8 Emulator
 
-TO-DO:
-1. Test opcodes
-2. Implement key handling
-3. Install graphics (and sound?)
-4. Enforce cycle speed
+A chip-8 emulator.  ![Specs](specs.png)
+
+## Setup and play
+
+Run `make` from the `src` directory to build the executable `emu`.  To load a chip-8 file, run
+    `./emu [path/to/file]`
 
 **Resources**
 

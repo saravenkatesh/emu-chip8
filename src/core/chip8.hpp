@@ -7,7 +7,7 @@ class chip8 {
     unsigned char *stack;
     unsigned char *registers;
     unsigned short I;
-    unsigned short *screen;
+    unsigned char *screen;
     unsigned char delay_timer;
     unsigned char sound_timer;
     unsigned short pc;
